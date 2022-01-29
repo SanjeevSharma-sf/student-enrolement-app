@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "studentName": "fsdf",
+      "fatherName": "fdsfsd",
+      "dob": "fd",
+      "address": "fsdsd",
+      "city": "dsfsd",
+      "state": "fsdf",
+      "pin": "122",
+      "phone": "vv",
+      "email": "san@gmail.com",
+      "classIn": "fsfd",
+      "marks": "fdsf",
+      "id": 2
+    },
+    {
+      "studentName": "rahul",
+      "fatherName": "bada rahul",
+      "dob": "26/03/4444",
+      "address": "fjkslfjs,fsdfsd",
+      "city": "ncr",
+      "state": "delhi",
+      "pin": "110023",
+      "phone": "6546546546",
+      "email": "rahul@gmail.com",
+      "classIn": "twelth",
+      "marks": "89",
+      "id": 3
+    }
+  ]
+}
